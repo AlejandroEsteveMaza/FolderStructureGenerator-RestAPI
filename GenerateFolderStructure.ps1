@@ -17,6 +17,7 @@ $basePath = Read-Host $prompt
 # Array con los nombres de las carpetas que deseas crear
 $folders = @(
     "controller",
+    "dto",
     "entity",
     "exception",
     "repository",
