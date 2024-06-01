@@ -14,6 +14,7 @@ This PowerShell script is designed to automate the process of generating folder 
 The generated folder structure includes the following folders:
 
 - controller
+- dto
 - entity
 - service
   - impl
