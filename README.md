@@ -20,6 +20,7 @@ The generated folder structure includes the following folders:
   - impl
 - exception
 - repository
+- config
 
 ## Requirements
 
