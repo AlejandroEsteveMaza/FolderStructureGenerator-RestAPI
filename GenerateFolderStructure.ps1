@@ -21,7 +21,8 @@ $folders = @(
     "entity",
     "exception",
     "repository",
-    "service"
+    "service",
+    "config"
 )
 
 # Crea las carpetas
